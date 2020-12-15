@@ -2,7 +2,7 @@
 
 ### [Live Link](https://netflix-clone-6c92d.web.app/)
 
-![Clone](https://ibb.co/sKJDsZD)
+![NetflixClone](https://i.ibb.co/c6Xp2jp/Screenshot-11.png)
 
 ## Introduction
 
