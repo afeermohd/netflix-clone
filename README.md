@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Netflix Clone
+
+### [Live Link](https://netflix-clone-6c92d.web.app/)
+
+![Clone](https://ibb.co/sKJDsZD)
+
+## Introduction
+
+This is a code repository for a clone application of Netflix UI using TMDB API
 
 ## Available Scripts
 
